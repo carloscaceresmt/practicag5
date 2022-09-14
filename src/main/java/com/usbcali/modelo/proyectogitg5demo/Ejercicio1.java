@@ -15,6 +15,8 @@ public class Ejercicio1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("hola  a todos para git");
+        System.out.println("hice un cambio en ejercicio1");
     }
     
 }
