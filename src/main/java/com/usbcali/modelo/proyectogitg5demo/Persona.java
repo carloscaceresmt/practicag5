@@ -20,6 +20,9 @@ public class Persona {
         int x=4;
         double y=3;
         System.out.println("hola hoy");
+        System.out.println("hola estoy programando");
+        System.out.println("mas modificacion");
+
     }
     
 }
